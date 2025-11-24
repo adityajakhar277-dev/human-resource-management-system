@@ -68,15 +68,7 @@ You need **Python 3.x** installed on your system.
     * The application should start, typically by presenting a **Login or Registration** screen based on the content of `login_register.py`.
     * Once logged in, you will be able to access the core HR features defined in `feature.py`.
 
-## 🤝 Contributing
 
-Contributions are always welcome! If you have suggestions for features or improvements, please feel free to open an issue or submit a pull request.
-
-1.  Fork the Project.
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the Branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
 
 ## 📄 License
 
