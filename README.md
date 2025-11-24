@@ -1,6 +1,3 @@
-Here is the complete, humanized README in a single, copy-pasteable Markdown block:
-
-```markdown
 # 🚀 Human Resource Management System (HRMS)
 
 ## 👋 Project Overview: Your HR Management Sidekick
