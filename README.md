@@ -29,33 +29,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 You need **Python 3.x** installed on your system.
 
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/adityajakhar277-dev/human-resource-management-system.git](https://github.com/adityajakhar277-dev/human-resource-management-system.git)
-    cd human-resource-management-system
-    ```
-
-2.  **Create and activate a virtual environment** (recommended):
-    ```bash
-    # Create
-    python -m venv venv
-    
-    # Activate (Linux/macOS)
-    source venv/bin/activate
-    
-    # Activate (Windows)
-    .\venv\Scripts\activate
-    ```
-
-3.  **Install dependencies:**
-    *If your project uses external libraries (like `pandas`, `requests`, or a database connector like `mysql-connector`), you would install them here.*
-    ```bash
-    # Placeholder: Install necessary packages if applicable
-    # pip install -r requirements.txt 
-    ```
-    *If no `requirements.txt` file exists, skip this step.*
 
 ### Usage
 
