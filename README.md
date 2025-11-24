@@ -81,9 +81,8 @@ python main.py
 
 You will be greeted by the authentication prompt. Time to register a new user or log in\!
 
------
 
-## 🔮 Future Scope: What's Next?
+## Future Scope:
 
 We have big ideas for expanding this system\! Potential future enhancements include:
 
@@ -91,15 +90,3 @@ We have big ideas for expanding this system\! Potential future enhancements incl
   * **Attendance Tracking:** Adding features for employees to clock in and out, and for managers to view attendance reports.
   * **Payroll Integration:** Basic module to calculate monthly salaries based on employee data.
   * **External Database Support:** Integrating with robust external databases like PostgreSQL or MySQL for scalability.
-
------
-
-## ✍️ Contribution & License
-
-Feel free to **fork** this project, submit **pull requests**, or suggest new **issues**.
-
-This project is open-source and distributed under the **MIT License**.
-*Happy coding\!*
-
-```
-```
